@@ -1,2 +1,2 @@
-# musicBotPy
-A discord music bot with python.
+# sexy music bot
+sexy music bot base on python
